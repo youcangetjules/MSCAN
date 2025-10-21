@@ -197,6 +197,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For support or inquiries, contact the Aliniant Labs team at [support@aliniantlabs.com](mailto:support@aliniantlabs.com).
+For support or inquiries, contact the Aliniant Labs team at [administrator@aliniant.com](mailto:administrator@aliniant.com) or if secure channel is required [aliniantsecurecontact@protonmail.com](mailto:aliniantsecurecontact@protonmail.com).
 
 </xaiArtifact>
